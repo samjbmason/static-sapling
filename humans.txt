@@ -3,13 +3,15 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Sam Mason -- Designer & Developer -- @samjbmason -- maison.io -- benchmarkstudios.co.uk
 
 # THANKS
 
-    <name>
+    The whole industry for creating something that I love to do everyday
 
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
     Normalize.css, jQuery, Modernizr
+    Sublime Text 2, Transmit, Git
+    GitHub
